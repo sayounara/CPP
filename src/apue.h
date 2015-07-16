@@ -7,7 +7,7 @@
 
 #ifndef APUE_H_
 #define APUE_H_
-
+#include <stdio.h>
 
 
 
